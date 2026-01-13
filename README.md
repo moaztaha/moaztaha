@@ -10,7 +10,7 @@
 
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=TahaE&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=moaztaha&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Moaz-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) <br>
 </div>
 
